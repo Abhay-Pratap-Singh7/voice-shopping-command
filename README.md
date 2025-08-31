@@ -63,3 +63,5 @@ voice-shopping-assistant/
 ```
 
 ---
+GitHub -> https://github.com/Abhay-Pratap-Singh7/voice-shopping/tree/main/voice-shopping
+Deployment -> https://voice-shopping-command.vercel.app/
